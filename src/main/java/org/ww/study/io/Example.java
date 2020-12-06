@@ -9,7 +9,7 @@ import java.io.IOException;
  * 练习IO
  * @author meow
  */
-public class IOExample {
+public class Example {
     public static void main(String[] args) {
         example3();
     }
